@@ -1,0 +1,22 @@
+body{
+    background-color: #eed773;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 55px;
+    margin-bottom: 55px;
+}
+
+.card-body{
+    background-color: #b6d463
+}
+
+#main-content{
+    text-align: center;
+    margin-top: 25px;
+}
+
+#name{
+    margin: 0 auto;
+}
